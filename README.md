@@ -33,7 +33,7 @@
 ## Output:
 ![image](https://github.com/SAKTHISWAR/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/blob/main/6.png)
 
-### Name: MURALI S
+### Name: MURALI   S
 ### Register Number: 212222230088
 
 ## Result: 
